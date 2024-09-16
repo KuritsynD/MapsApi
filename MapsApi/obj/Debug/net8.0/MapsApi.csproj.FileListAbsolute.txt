@@ -272,3 +272,4 @@ C:\Users\dm4ka\OneDrive\Документы\GitHub\MapsApi\MapsApi\obj\Debug\net8
 C:\Users\dm4ka\OneDrive\Документы\GitHub\MapsApi\MapsApi\obj\Debug\net8.0\MapsApi.pdb
 C:\Users\dm4ka\OneDrive\Документы\GitHub\MapsApi\MapsApi\obj\Debug\net8.0\MapsApi.genruntimeconfig.cache
 C:\Users\dm4ka\OneDrive\Документы\GitHub\MapsApi\MapsApi\obj\Debug\net8.0\ref\MapsApi.dll
+C:\Users\dm4ka\OneDrive\Документы\GitHub\MapsApi\MapsApi\obj\Debug\net8.0\MapsApi.sourcelink.json
